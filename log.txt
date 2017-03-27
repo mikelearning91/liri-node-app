@@ -1,0 +1,2233 @@
+Command: node liri.js my-tweets
+
+--------------------------------------------------------------------------------
+Liri: Here are your most recent tweets:
+--------------------------------------------------------------------------------
+
+Tweet 1:
+Mon Mar 27 12:00:01 +0000 2017
+📆#NodeWeek is coming next month! Speakers will delve into real-life experiences &amp; lessons learned along the way https://t.co/Fypit4J9sa
+
+Tweet 2:
+Fri Mar 24 19:27:48 +0000 2017
+RT @williamkapke: Have questions/concerns/ideas about the @Nodejs Foundation? Open an issue https://t.co/iPLgfA6M0d or feel free to DM me!…
+
+Tweet 3:
+Fri Mar 24 19:00:02 +0000 2017
+🌎📱A transcript of our chat with Groupon on how they used Node.js to expand globally and into mobile: https://t.co/IkurJc94OP
+
+Tweet 4:
+Fri Mar 24 17:10:02 +0000 2017
+Need a podcast today? The JS Party crew discusses AMP, Path.js and JavaScript Fatigue in this @thechangelog episode… https://t.co/zLK4qeOQIQ
+
+Tweet 5:
+Fri Mar 24 16:31:01 +0000 2017
+Welcome!!! 🎉🎉🎉 https://t.co/LsDb7CNjf7
+
+Tweet 6:
+Fri Mar 24 15:10:01 +0000 2017
+😀 Register today for #NodeSummit 2017 (July 25-27, SFO) and enjoy a 25% discount on passes https://t.co/bxhTHPSd3z
+
+Tweet 7:
+Fri Mar 24 14:00:07 +0000 2017
+CFPs for #NodeInteractive close next month. Submit your talk today: https://t.co/r6itaBsiXu
+
+Tweet 8:
+Fri Mar 24 13:30:52 +0000 2017
+RT @RisingStack: 🔥Friday = Node.js Weekly Update✍️
+
+Highlights:
+
+* New Current and LTS @nodejs Released
+* @npmjs announces free Orgs
+
+https…
+
+Tweet 9:
+Thu Mar 23 23:00:03 +0000 2017
+✨No Node.js meetup group in your area? Start one! @davidfekke  provides some tips based on his experience: https://t.co/CLjS4j353t
+
+Tweet 10:
+Thu Mar 23 20:11:04 +0000 2017
+RT @williamkapke: .@Nodejs TSC meeting now LIVE!
+https://t.co/5Peefgw60n
+
+Tweet 11:
+Thu Mar 23 20:00:08 +0000 2017
+📻How being a post-GitHub platform changed the Node.js community - interview with @mikeal &amp; @ghaff https://t.co/K1iawmhsfa
+
+Tweet 12:
+Thu Mar 23 16:15:00 +0000 2017
+😎Some tips on how to reduce stress and achieve development nirvana through adjusting your workflow via @LinuxDotCom https://t.co/0uD82PCqBC
+
+Tweet 13:
+Thu Mar 23 14:00:04 +0000 2017
+🎮 Looking to refresh your skills in JavaScript? Create a game using Node.js! @partytimeHXLNT explains how: https://t.co/Lk4bz3SnmC
+
+Tweet 14:
+Thu Mar 23 13:02:33 +0000 2017
+@codebrainr no plans to have Node.js Interactive in Europe this year, but there's a lot of great European based Node.js conferences.
+
+Tweet 15:
+Wed Mar 22 23:00:01 +0000 2017
+Early bird tickets available for #NodeInteractive. Get the deals while they are 🔥 https://t.co/ji13h8ZXhn
+
+Tweet 16:
+Wed Mar 22 22:59:09 +0000 2017
+RT @awscloud: AWS Lambda now supports Node.js v6.10! #cloudcomputing https://t.co/YvXhfOMP7f https://t.co/I2d7e2SrHT
+
+Tweet 17:
+Wed Mar 22 19:00:04 +0000 2017
+10 best practices for writing Node.js REST APIs from @RisingStack https://t.co/4wOYdxhLxw
+
+Tweet 18:
+Wed Mar 22 13:50:00 +0000 2017
+Never participated in a conference talk before? Why not now? Submit your talk to #NodeInteractive https://t.co/r6itaBsiXu
+
+Tweet 19:
+Wed Mar 22 13:20:22 +0000 2017
+RT @RisingStack: The first speech from our @nodejs conference by @dkhan is now available (video + article format)! 🤓 Check it out!
+
+https:/…
+
+Tweet 20:
+Wed Mar 22 13:19:53 +0000 2017
+Node.js version 7.7.4 is available: https://t.co/p7I9FxCurJ small release with several bug fixes.
+
+Command: node liri.js spotify-this-songwho dat
+
+--------------------------------------------------------------------------------
+Liri: Here is the spotify search results for who dat:
+--------------------------------------------------------------------------------
+
+Result 1:
+Song title: Who Dat
+Artist: J. Cole
+Album title: Who Dat (Explicit Version)
+Preview URL: https://p.scdn.co/mp3-preview/ddb3448d711faa599d9067499ac3e2b34c39612e?cid=null
+
+Result 2:
+Song title: Who Dat Girl - feat. Akon
+Artist 1: Flo Rida
+Artist 2: Akon
+Album title: Only One Flo [Part 1]
+Preview URL: https://p.scdn.co/mp3-preview/fc42af9593e5d6ec01e059e9cd0aa08931b613fc?cid=null
+
+Result 3:
+Song title: Who Dat
+Artist: Jeezy
+Album title: The Recession
+Preview URL: https://p.scdn.co/mp3-preview/94aab8fb35508f027d1618cc27656c9d260ef449?cid=null
+
+Result 4:
+Song title: Who Dat
+Artist: J. Cole
+Album title: Who Dat (Clean Version)
+Preview URL: https://p.scdn.co/mp3-preview/da5e2bfac1260b84d54f4a8ab74fdb7181af3530?cid=null
+
+Result 5:
+Song title: Who Ride Wit Us
+Artist 1: Kurupt
+Artist 2: Blaqthoven
+Artist 3: BadAss
+Artist 4: Daz Dillinger
+Album title: Tha Streetz Iz A Mutha (Digitally Remastered)
+Preview URL: https://p.scdn.co/mp3-preview/641b65e500520cedb0fe1fbabca1ee8365a5ac26?cid=null
+
+Result 6:
+Song title: Who Dat
+Artist: Chief Keef
+Album title: Finally Rollin 2 (Glo'd Up Deluxe Edition)
+Preview URL: https://p.scdn.co/mp3-preview/826c85229ceec20575dea17e9c03b4f586139ac2?cid=null
+
+Result 7:
+Song title: Who Dat
+Artist: JT Money
+Album title: Pimpin' On Wax
+Preview URL: https://p.scdn.co/mp3-preview/f8fcc0f28a39e36334dd127b099779b52c8b93c1?cid=null
+
+Result 8:
+Song title: Who Dat Talking Down
+Artist 1: Big Pokey
+Artist 2: Big Steve
+Artist 3: Big E
+Album title: Hardest Pit in the Litter
+Preview URL: https://p.scdn.co/mp3-preview/674b6b0c7725553cfd542d293272d434ba1849ca?cid=null
+
+Result 9:
+Song title: Who Got Love (feat. Dat Boy A)
+Artist: Dat Boy A
+Album title: All In
+Preview URL: https://p.scdn.co/mp3-preview/6a501deff30467ad65c89fd5c50767332375675e?cid=null
+
+Result 10:
+Song title: Heart of the City (Who Dat) [feat. X-Man, Bigshott, Big Rec & Kuniqua]
+Artist 1: Mf'n Music
+Artist 2: X-Man
+Artist 3: Bigshott
+Artist 4: Bigrec
+Artist 5: Kuniqua
+Album title: Heart of the City (Who Dat) [feat. X-Man, Bigshott, Big Rec & Kuniqua]
+Preview URL: https://p.scdn.co/mp3-preview/14ee3bf8f055c60e3c4c009331664d43d754a72e?cid=null
+
+Result 11:
+Song title: Screw Dat
+Artist: Mike Jones
+Album title: Who Is Mike Jones?
+Preview URL: https://p.scdn.co/mp3-preview/e71e8c99a07b0f88c95f48b0918b1c613554ad06?cid=null
+
+Result 12:
+Song title: Who Dat
+Artist: Chief Keef
+Album title: Finally Rollin 2 (Deluxe Edition)
+Preview URL: https://p.scdn.co/mp3-preview/826c85229ceec20575dea17e9c03b4f586139ac2?cid=null
+
+Result 13:
+Song title: Who Dat
+Artist 1: Kool John
+Artist 2: P-Lo
+Artist 3: Skipper
+Album title: Moovie!
+Preview URL: https://p.scdn.co/mp3-preview/942c307541df0ce7bab8df54e4ebaa03b3684c76?cid=null
+
+Result 14:
+Song title: Who Dat Down Dare?
+Artist: Pisk
+Album title: Black Cotton Remixed, Vol. 2 (Electro Swing Versus Speakeasy Jazz)
+Preview URL: https://p.scdn.co/mp3-preview/984ab828751814de3da0f75fe20cd061fede5634?cid=null
+
+Result 15:
+Song title: Brazilliant Thought
+Artist: Dr Who Dat?
+Album title: Beat Journey (Bonus Version)
+Preview URL: https://p.scdn.co/mp3-preview/b8151903335e186bb9d6486ab07924eb1622fb88?cid=null
+
+Result 16:
+Song title: Who Dat ?
+Artist: Heltah Skeltah
+Album title: Nocturnal (Explicit)
+Preview URL: https://p.scdn.co/mp3-preview/3237dd77d80a21970c1e3ab327af58ee22ea345a?cid=null
+
+Result 17:
+Song title: Black and Gold - Saints Anthem (Who Dat!!)
+Artist: K. Gates
+Album title: Black and Gold - Saints Anthem (Who Dat!!)
+Preview URL: https://p.scdn.co/mp3-preview/f64ebd1257861fa977f6fd4f0455b91031b0c923?cid=null
+
+Result 18:
+Song title: Who Dat
+Artist: Azul Loco
+Album title: Zulnation
+Preview URL: https://p.scdn.co/mp3-preview/1f12d21f294135cb897479b05098e5b31e2ce948?cid=null
+
+Result 19:
+Song title: You All Dat
+Artist: Baha Men
+Album title: Who Let The Dogs Out
+Preview URL: https://p.scdn.co/mp3-preview/bce40a18fd305fdcb97fbf7c8023be6ea0147110?cid=null
+
+Result 20:
+Song title: Who Ride Wit Us
+Artist 1: Kurupt
+Artist 2: Daz Dillinger
+Album title: Who Ride Wit Us: Kurupt's Greatest Hits
+Preview URL: https://p.scdn.co/mp3-preview/421b379724e139e97fd60ec3a2d8074023ab08f2?cid=null
+
+Command: node liri.js my-tweets
+
+Command: node liri.js my-tweets
+
+--------------------------------------------------------------------------------
+Liri: Here are your most recent tweets:
+--------------------------------------------------------------------------------
+
+Tweet 1:
+Mon Mar 27 12:00:01 +0000 2017
+📆#NodeWeek is coming next month! Speakers will delve into real-life experiences &amp; lessons learned along the way https://t.co/Fypit4J9sa
+
+Tweet 2:
+Fri Mar 24 19:27:48 +0000 2017
+RT @williamkapke: Have questions/concerns/ideas about the @Nodejs Foundation? Open an issue https://t.co/iPLgfA6M0d or feel free to DM me!…
+
+Tweet 3:
+Fri Mar 24 19:00:02 +0000 2017
+🌎📱A transcript of our chat with Groupon on how they used Node.js to expand globally and into mobile: https://t.co/IkurJc94OP
+
+Tweet 4:
+Fri Mar 24 17:10:02 +0000 2017
+Need a podcast today? The JS Party crew discusses AMP, Path.js and JavaScript Fatigue in this @thechangelog episode… https://t.co/zLK4qeOQIQ
+
+Tweet 5:
+Fri Mar 24 16:31:01 +0000 2017
+Welcome!!! 🎉🎉🎉 https://t.co/LsDb7CNjf7
+
+Tweet 6:
+Fri Mar 24 15:10:01 +0000 2017
+😀 Register today for #NodeSummit 2017 (July 25-27, SFO) and enjoy a 25% discount on passes https://t.co/bxhTHPSd3z
+
+Tweet 7:
+Fri Mar 24 14:00:07 +0000 2017
+CFPs for #NodeInteractive close next month. Submit your talk today: https://t.co/r6itaBsiXu
+
+Tweet 8:
+Fri Mar 24 13:30:52 +0000 2017
+RT @RisingStack: 🔥Friday = Node.js Weekly Update✍️
+
+Highlights:
+
+* New Current and LTS @nodejs Released
+* @npmjs announces free Orgs
+
+https…
+
+Tweet 9:
+Thu Mar 23 23:00:03 +0000 2017
+✨No Node.js meetup group in your area? Start one! @davidfekke  provides some tips based on his experience: https://t.co/CLjS4j353t
+
+Tweet 10:
+Thu Mar 23 20:11:04 +0000 2017
+RT @williamkapke: .@Nodejs TSC meeting now LIVE!
+https://t.co/5Peefgw60n
+
+Tweet 11:
+Thu Mar 23 20:00:08 +0000 2017
+📻How being a post-GitHub platform changed the Node.js community - interview with @mikeal &amp; @ghaff https://t.co/K1iawmhsfa
+
+Tweet 12:
+Thu Mar 23 16:15:00 +0000 2017
+😎Some tips on how to reduce stress and achieve development nirvana through adjusting your workflow via @LinuxDotCom https://t.co/0uD82PCqBC
+
+Tweet 13:
+Thu Mar 23 14:00:04 +0000 2017
+🎮 Looking to refresh your skills in JavaScript? Create a game using Node.js! @partytimeHXLNT explains how: https://t.co/Lk4bz3SnmC
+
+Tweet 14:
+Thu Mar 23 13:02:33 +0000 2017
+@codebrainr no plans to have Node.js Interactive in Europe this year, but there's a lot of great European based Node.js conferences.
+
+Tweet 15:
+Wed Mar 22 23:00:01 +0000 2017
+Early bird tickets available for #NodeInteractive. Get the deals while they are 🔥 https://t.co/ji13h8ZXhn
+
+Tweet 16:
+Wed Mar 22 22:59:09 +0000 2017
+RT @awscloud: AWS Lambda now supports Node.js v6.10! #cloudcomputing https://t.co/YvXhfOMP7f https://t.co/I2d7e2SrHT
+
+Tweet 17:
+Wed Mar 22 19:00:04 +0000 2017
+10 best practices for writing Node.js REST APIs from @RisingStack https://t.co/4wOYdxhLxw
+
+Tweet 18:
+Wed Mar 22 13:50:00 +0000 2017
+Never participated in a conference talk before? Why not now? Submit your talk to #NodeInteractive https://t.co/r6itaBsiXu
+
+Tweet 19:
+Wed Mar 22 13:20:22 +0000 2017
+RT @RisingStack: The first speech from our @nodejs conference by @dkhan is now available (video + article format)! 🤓 Check it out!
+
+https:/…
+
+Tweet 20:
+Wed Mar 22 13:19:53 +0000 2017
+Node.js version 7.7.4 is available: https://t.co/p7I9FxCurJ small release with several bug fixes.
+
+Command: node liri.js my-tweets
+
+Command: node liri.js my-tweets
+
+Command: node liri.js my-tweets
+
+Command: node liri.js my-tweets
+
+Command: node liri.js my-tweets
+
+--------------------------------------------------------------------------------
+Liri: Here are your most recent tweets:
+--------------------------------------------------------------------------------
+
+Tweet 1:
+Mon Mar 27 12:00:01 +0000 2017
+📆#NodeWeek is coming next month! Speakers will delve into real-life experiences &amp; lessons learned along the way https://t.co/Fypit4J9sa
+
+Tweet 2:
+Fri Mar 24 19:27:48 +0000 2017
+RT @williamkapke: Have questions/concerns/ideas about the @Nodejs Foundation? Open an issue https://t.co/iPLgfA6M0d or feel free to DM me!…
+
+Tweet 3:
+Fri Mar 24 19:00:02 +0000 2017
+🌎📱A transcript of our chat with Groupon on how they used Node.js to expand globally and into mobile: https://t.co/IkurJc94OP
+
+Tweet 4:
+Fri Mar 24 17:10:02 +0000 2017
+Need a podcast today? The JS Party crew discusses AMP, Path.js and JavaScript Fatigue in this @thechangelog episode… https://t.co/zLK4qeOQIQ
+
+Tweet 5:
+Fri Mar 24 16:31:01 +0000 2017
+Welcome!!! 🎉🎉🎉 https://t.co/LsDb7CNjf7
+
+Tweet 6:
+Fri Mar 24 15:10:01 +0000 2017
+😀 Register today for #NodeSummit 2017 (July 25-27, SFO) and enjoy a 25% discount on passes https://t.co/bxhTHPSd3z
+
+Tweet 7:
+Fri Mar 24 14:00:07 +0000 2017
+CFPs for #NodeInteractive close next month. Submit your talk today: https://t.co/r6itaBsiXu
+
+Tweet 8:
+Fri Mar 24 13:30:52 +0000 2017
+RT @RisingStack: 🔥Friday = Node.js Weekly Update✍️
+
+Highlights:
+
+* New Current and LTS @nodejs Released
+* @npmjs announces free Orgs
+
+https…
+
+Tweet 9:
+Thu Mar 23 23:00:03 +0000 2017
+✨No Node.js meetup group in your area? Start one! @davidfekke  provides some tips based on his experience: https://t.co/CLjS4j353t
+
+Tweet 10:
+Thu Mar 23 20:11:04 +0000 2017
+RT @williamkapke: .@Nodejs TSC meeting now LIVE!
+https://t.co/5Peefgw60n
+
+Tweet 11:
+Thu Mar 23 20:00:08 +0000 2017
+📻How being a post-GitHub platform changed the Node.js community - interview with @mikeal &amp; @ghaff https://t.co/K1iawmhsfa
+
+Tweet 12:
+Thu Mar 23 16:15:00 +0000 2017
+😎Some tips on how to reduce stress and achieve development nirvana through adjusting your workflow via @LinuxDotCom https://t.co/0uD82PCqBC
+
+Tweet 13:
+Thu Mar 23 14:00:04 +0000 2017
+🎮 Looking to refresh your skills in JavaScript? Create a game using Node.js! @partytimeHXLNT explains how: https://t.co/Lk4bz3SnmC
+
+Tweet 14:
+Thu Mar 23 13:02:33 +0000 2017
+@codebrainr no plans to have Node.js Interactive in Europe this year, but there's a lot of great European based Node.js conferences.
+
+Tweet 15:
+Wed Mar 22 23:00:01 +0000 2017
+Early bird tickets available for #NodeInteractive. Get the deals while they are 🔥 https://t.co/ji13h8ZXhn
+
+Tweet 16:
+Wed Mar 22 22:59:09 +0000 2017
+RT @awscloud: AWS Lambda now supports Node.js v6.10! #cloudcomputing https://t.co/YvXhfOMP7f https://t.co/I2d7e2SrHT
+
+Tweet 17:
+Wed Mar 22 19:00:04 +0000 2017
+10 best practices for writing Node.js REST APIs from @RisingStack https://t.co/4wOYdxhLxw
+
+Tweet 18:
+Wed Mar 22 13:50:00 +0000 2017
+Never participated in a conference talk before? Why not now? Submit your talk to #NodeInteractive https://t.co/r6itaBsiXu
+
+Tweet 19:
+Wed Mar 22 13:20:22 +0000 2017
+RT @RisingStack: The first speech from our @nodejs conference by @dkhan is now available (video + article format)! 🤓 Check it out!
+
+https:/…
+
+Tweet 20:
+Wed Mar 22 13:19:53 +0000 2017
+Node.js version 7.7.4 is available: https://t.co/p7I9FxCurJ small release with several bug fixes.
+
+Command: node liri.js my-tweets
+
+--------------------------------------------------------------------------------
+Liri: Here are your most recent tweets:
+--------------------------------------------------------------------------------
+
+Tweet 1:
+Mon Mar 27 12:00:01 +0000 2017
+📆#NodeWeek is coming next month! Speakers will delve into real-life experiences &amp; lessons learned along the way https://t.co/Fypit4J9sa
+
+Tweet 2:
+Fri Mar 24 19:27:48 +0000 2017
+RT @williamkapke: Have questions/concerns/ideas about the @Nodejs Foundation? Open an issue https://t.co/iPLgfA6M0d or feel free to DM me!…
+
+Tweet 3:
+Fri Mar 24 19:00:02 +0000 2017
+🌎📱A transcript of our chat with Groupon on how they used Node.js to expand globally and into mobile: https://t.co/IkurJc94OP
+
+Tweet 4:
+Fri Mar 24 17:10:02 +0000 2017
+Need a podcast today? The JS Party crew discusses AMP, Path.js and JavaScript Fatigue in this @thechangelog episode… https://t.co/zLK4qeOQIQ
+
+Tweet 5:
+Fri Mar 24 16:31:01 +0000 2017
+Welcome!!! 🎉🎉🎉 https://t.co/LsDb7CNjf7
+
+Tweet 6:
+Fri Mar 24 15:10:01 +0000 2017
+😀 Register today for #NodeSummit 2017 (July 25-27, SFO) and enjoy a 25% discount on passes https://t.co/bxhTHPSd3z
+
+Tweet 7:
+Fri Mar 24 14:00:07 +0000 2017
+CFPs for #NodeInteractive close next month. Submit your talk today: https://t.co/r6itaBsiXu
+
+Tweet 8:
+Fri Mar 24 13:30:52 +0000 2017
+RT @RisingStack: 🔥Friday = Node.js Weekly Update✍️
+
+Highlights:
+
+* New Current and LTS @nodejs Released
+* @npmjs announces free Orgs
+
+https…
+
+Tweet 9:
+Thu Mar 23 23:00:03 +0000 2017
+✨No Node.js meetup group in your area? Start one! @davidfekke  provides some tips based on his experience: https://t.co/CLjS4j353t
+
+Tweet 10:
+Thu Mar 23 20:11:04 +0000 2017
+RT @williamkapke: .@Nodejs TSC meeting now LIVE!
+https://t.co/5Peefgw60n
+
+Tweet 11:
+Thu Mar 23 20:00:08 +0000 2017
+📻How being a post-GitHub platform changed the Node.js community - interview with @mikeal &amp; @ghaff https://t.co/K1iawmhsfa
+
+Tweet 12:
+Thu Mar 23 16:15:00 +0000 2017
+😎Some tips on how to reduce stress and achieve development nirvana through adjusting your workflow via @LinuxDotCom https://t.co/0uD82PCqBC
+
+Tweet 13:
+Thu Mar 23 14:00:04 +0000 2017
+🎮 Looking to refresh your skills in JavaScript? Create a game using Node.js! @partytimeHXLNT explains how: https://t.co/Lk4bz3SnmC
+
+Tweet 14:
+Thu Mar 23 13:02:33 +0000 2017
+@codebrainr no plans to have Node.js Interactive in Europe this year, but there's a lot of great European based Node.js conferences.
+
+Tweet 15:
+Wed Mar 22 23:00:01 +0000 2017
+Early bird tickets available for #NodeInteractive. Get the deals while they are 🔥 https://t.co/ji13h8ZXhn
+
+Tweet 16:
+Wed Mar 22 22:59:09 +0000 2017
+RT @awscloud: AWS Lambda now supports Node.js v6.10! #cloudcomputing https://t.co/YvXhfOMP7f https://t.co/I2d7e2SrHT
+
+Tweet 17:
+Wed Mar 22 19:00:04 +0000 2017
+10 best practices for writing Node.js REST APIs from @RisingStack https://t.co/4wOYdxhLxw
+
+Tweet 18:
+Wed Mar 22 13:50:00 +0000 2017
+Never participated in a conference talk before? Why not now? Submit your talk to #NodeInteractive https://t.co/r6itaBsiXu
+
+Tweet 19:
+Wed Mar 22 13:20:22 +0000 2017
+RT @RisingStack: The first speech from our @nodejs conference by @dkhan is now available (video + article format)! 🤓 Check it out!
+
+https:/…
+
+Tweet 20:
+Wed Mar 22 13:19:53 +0000 2017
+Node.js version 7.7.4 is available: https://t.co/p7I9FxCurJ small release with several bug fixes.
+
+Command: node liri.js my-tweets
+
+--------------------------------------------------------------------------------
+Liri: Here are your most recent tweets:
+--------------------------------------------------------------------------------
+
+Tweet 1:
+Mon Mar 27 12:00:01 +0000 2017
+📆#NodeWeek is coming next month! Speakers will delve into real-life experiences &amp; lessons learned along the way https://t.co/Fypit4J9sa
+
+Tweet 2:
+Fri Mar 24 19:27:48 +0000 2017
+RT @williamkapke: Have questions/concerns/ideas about the @Nodejs Foundation? Open an issue https://t.co/iPLgfA6M0d or feel free to DM me!…
+
+Tweet 3:
+Fri Mar 24 19:00:02 +0000 2017
+🌎📱A transcript of our chat with Groupon on how they used Node.js to expand globally and into mobile: https://t.co/IkurJc94OP
+
+Tweet 4:
+Fri Mar 24 17:10:02 +0000 2017
+Need a podcast today? The JS Party crew discusses AMP, Path.js and JavaScript Fatigue in this @thechangelog episode… https://t.co/zLK4qeOQIQ
+
+Tweet 5:
+Fri Mar 24 16:31:01 +0000 2017
+Welcome!!! 🎉🎉🎉 https://t.co/LsDb7CNjf7
+
+Tweet 6:
+Fri Mar 24 15:10:01 +0000 2017
+😀 Register today for #NodeSummit 2017 (July 25-27, SFO) and enjoy a 25% discount on passes https://t.co/bxhTHPSd3z
+
+Tweet 7:
+Fri Mar 24 14:00:07 +0000 2017
+CFPs for #NodeInteractive close next month. Submit your talk today: https://t.co/r6itaBsiXu
+
+Tweet 8:
+Fri Mar 24 13:30:52 +0000 2017
+RT @RisingStack: 🔥Friday = Node.js Weekly Update✍️
+
+Highlights:
+
+* New Current and LTS @nodejs Released
+* @npmjs announces free Orgs
+
+https…
+
+Tweet 9:
+Thu Mar 23 23:00:03 +0000 2017
+✨No Node.js meetup group in your area? Start one! @davidfekke  provides some tips based on his experience: https://t.co/CLjS4j353t
+
+Tweet 10:
+Thu Mar 23 20:11:04 +0000 2017
+RT @williamkapke: .@Nodejs TSC meeting now LIVE!
+https://t.co/5Peefgw60n
+
+Tweet 11:
+Thu Mar 23 20:00:08 +0000 2017
+📻How being a post-GitHub platform changed the Node.js community - interview with @mikeal &amp; @ghaff https://t.co/K1iawmhsfa
+
+Tweet 12:
+Thu Mar 23 16:15:00 +0000 2017
+😎Some tips on how to reduce stress and achieve development nirvana through adjusting your workflow via @LinuxDotCom https://t.co/0uD82PCqBC
+
+Tweet 13:
+Thu Mar 23 14:00:04 +0000 2017
+🎮 Looking to refresh your skills in JavaScript? Create a game using Node.js! @partytimeHXLNT explains how: https://t.co/Lk4bz3SnmC
+
+Tweet 14:
+Thu Mar 23 13:02:33 +0000 2017
+@codebrainr no plans to have Node.js Interactive in Europe this year, but there's a lot of great European based Node.js conferences.
+
+Tweet 15:
+Wed Mar 22 23:00:01 +0000 2017
+Early bird tickets available for #NodeInteractive. Get the deals while they are 🔥 https://t.co/ji13h8ZXhn
+
+Tweet 16:
+Wed Mar 22 22:59:09 +0000 2017
+RT @awscloud: AWS Lambda now supports Node.js v6.10! #cloudcomputing https://t.co/YvXhfOMP7f https://t.co/I2d7e2SrHT
+
+Tweet 17:
+Wed Mar 22 19:00:04 +0000 2017
+10 best practices for writing Node.js REST APIs from @RisingStack https://t.co/4wOYdxhLxw
+
+Tweet 18:
+Wed Mar 22 13:50:00 +0000 2017
+Never participated in a conference talk before? Why not now? Submit your talk to #NodeInteractive https://t.co/r6itaBsiXu
+
+Tweet 19:
+Wed Mar 22 13:20:22 +0000 2017
+RT @RisingStack: The first speech from our @nodejs conference by @dkhan is now available (video + article format)! 🤓 Check it out!
+
+https:/…
+
+Tweet 20:
+Wed Mar 22 13:19:53 +0000 2017
+Node.js version 7.7.4 is available: https://t.co/p7I9FxCurJ small release with several bug fixes.
+
+Command: node liri.js my-tweets
+
+--------------------------------------------------------------------------------
+Liri: Here are your most recent tweets:
+--------------------------------------------------------------------------------
+
+Tweet 1:
+Mon Mar 27 12:00:01 +0000 2017
+📆#NodeWeek is coming next month! Speakers will delve into real-life experiences &amp; lessons learned along the way https://t.co/Fypit4J9sa
+
+Tweet 2:
+Fri Mar 24 19:27:48 +0000 2017
+RT @williamkapke: Have questions/concerns/ideas about the @Nodejs Foundation? Open an issue https://t.co/iPLgfA6M0d or feel free to DM me!…
+
+Tweet 3:
+Fri Mar 24 19:00:02 +0000 2017
+🌎📱A transcript of our chat with Groupon on how they used Node.js to expand globally and into mobile: https://t.co/IkurJc94OP
+
+Tweet 4:
+Fri Mar 24 17:10:02 +0000 2017
+Need a podcast today? The JS Party crew discusses AMP, Path.js and JavaScript Fatigue in this @thechangelog episode… https://t.co/zLK4qeOQIQ
+
+Tweet 5:
+Fri Mar 24 16:31:01 +0000 2017
+Welcome!!! 🎉🎉🎉 https://t.co/LsDb7CNjf7
+
+Tweet 6:
+Fri Mar 24 15:10:01 +0000 2017
+😀 Register today for #NodeSummit 2017 (July 25-27, SFO) and enjoy a 25% discount on passes https://t.co/bxhTHPSd3z
+
+Tweet 7:
+Fri Mar 24 14:00:07 +0000 2017
+CFPs for #NodeInteractive close next month. Submit your talk today: https://t.co/r6itaBsiXu
+
+Tweet 8:
+Fri Mar 24 13:30:52 +0000 2017
+RT @RisingStack: 🔥Friday = Node.js Weekly Update✍️
+
+Highlights:
+
+* New Current and LTS @nodejs Released
+* @npmjs announces free Orgs
+
+https…
+
+Tweet 9:
+Thu Mar 23 23:00:03 +0000 2017
+✨No Node.js meetup group in your area? Start one! @davidfekke  provides some tips based on his experience: https://t.co/CLjS4j353t
+
+Tweet 10:
+Thu Mar 23 20:11:04 +0000 2017
+RT @williamkapke: .@Nodejs TSC meeting now LIVE!
+https://t.co/5Peefgw60n
+
+Tweet 11:
+Thu Mar 23 20:00:08 +0000 2017
+📻How being a post-GitHub platform changed the Node.js community - interview with @mikeal &amp; @ghaff https://t.co/K1iawmhsfa
+
+Tweet 12:
+Thu Mar 23 16:15:00 +0000 2017
+😎Some tips on how to reduce stress and achieve development nirvana through adjusting your workflow via @LinuxDotCom https://t.co/0uD82PCqBC
+
+Tweet 13:
+Thu Mar 23 14:00:04 +0000 2017
+🎮 Looking to refresh your skills in JavaScript? Create a game using Node.js! @partytimeHXLNT explains how: https://t.co/Lk4bz3SnmC
+
+Tweet 14:
+Thu Mar 23 13:02:33 +0000 2017
+@codebrainr no plans to have Node.js Interactive in Europe this year, but there's a lot of great European based Node.js conferences.
+
+Tweet 15:
+Wed Mar 22 23:00:01 +0000 2017
+Early bird tickets available for #NodeInteractive. Get the deals while they are 🔥 https://t.co/ji13h8ZXhn
+
+Tweet 16:
+Wed Mar 22 22:59:09 +0000 2017
+RT @awscloud: AWS Lambda now supports Node.js v6.10! #cloudcomputing https://t.co/YvXhfOMP7f https://t.co/I2d7e2SrHT
+
+Tweet 17:
+Wed Mar 22 19:00:04 +0000 2017
+10 best practices for writing Node.js REST APIs from @RisingStack https://t.co/4wOYdxhLxw
+
+Tweet 18:
+Wed Mar 22 13:50:00 +0000 2017
+Never participated in a conference talk before? Why not now? Submit your talk to #NodeInteractive https://t.co/r6itaBsiXu
+
+Tweet 19:
+Wed Mar 22 13:20:22 +0000 2017
+RT @RisingStack: The first speech from our @nodejs conference by @dkhan is now available (video + article format)! 🤓 Check it out!
+
+https:/…
+
+Tweet 20:
+Wed Mar 22 13:19:53 +0000 2017
+Node.js version 7.7.4 is available: https://t.co/p7I9FxCurJ small release with several bug fixes.
+
+Command: node liri.js my-tweets
+
+--------------------------------------------------------------------------------
+Liri: Here are your most recent tweets:
+--------------------------------------------------------------------------------
+
+Tweet 1:
+Mon Mar 27 12:00:01 +0000 2017
+📆#NodeWeek is coming next month! Speakers will delve into real-life experiences &amp; lessons learned along the way https://t.co/Fypit4J9sa
+
+Tweet 2:
+Fri Mar 24 19:27:48 +0000 2017
+RT @williamkapke: Have questions/concerns/ideas about the @Nodejs Foundation? Open an issue https://t.co/iPLgfA6M0d or feel free to DM me!…
+
+Tweet 3:
+Fri Mar 24 19:00:02 +0000 2017
+🌎📱A transcript of our chat with Groupon on how they used Node.js to expand globally and into mobile: https://t.co/IkurJc94OP
+
+Tweet 4:
+Fri Mar 24 17:10:02 +0000 2017
+Need a podcast today? The JS Party crew discusses AMP, Path.js and JavaScript Fatigue in this @thechangelog episode… https://t.co/zLK4qeOQIQ
+
+Tweet 5:
+Fri Mar 24 16:31:01 +0000 2017
+Welcome!!! 🎉🎉🎉 https://t.co/LsDb7CNjf7
+
+Tweet 6:
+Fri Mar 24 15:10:01 +0000 2017
+😀 Register today for #NodeSummit 2017 (July 25-27, SFO) and enjoy a 25% discount on passes https://t.co/bxhTHPSd3z
+
+Tweet 7:
+Fri Mar 24 14:00:07 +0000 2017
+CFPs for #NodeInteractive close next month. Submit your talk today: https://t.co/r6itaBsiXu
+
+Tweet 8:
+Fri Mar 24 13:30:52 +0000 2017
+RT @RisingStack: 🔥Friday = Node.js Weekly Update✍️
+
+Highlights:
+
+* New Current and LTS @nodejs Released
+* @npmjs announces free Orgs
+
+https…
+
+Tweet 9:
+Thu Mar 23 23:00:03 +0000 2017
+✨No Node.js meetup group in your area? Start one! @davidfekke  provides some tips based on his experience: https://t.co/CLjS4j353t
+
+Tweet 10:
+Thu Mar 23 20:11:04 +0000 2017
+RT @williamkapke: .@Nodejs TSC meeting now LIVE!
+https://t.co/5Peefgw60n
+
+Tweet 11:
+Thu Mar 23 20:00:08 +0000 2017
+📻How being a post-GitHub platform changed the Node.js community - interview with @mikeal &amp; @ghaff https://t.co/K1iawmhsfa
+
+Tweet 12:
+Thu Mar 23 16:15:00 +0000 2017
+😎Some tips on how to reduce stress and achieve development nirvana through adjusting your workflow via @LinuxDotCom https://t.co/0uD82PCqBC
+
+Tweet 13:
+Thu Mar 23 14:00:04 +0000 2017
+🎮 Looking to refresh your skills in JavaScript? Create a game using Node.js! @partytimeHXLNT explains how: https://t.co/Lk4bz3SnmC
+
+Tweet 14:
+Thu Mar 23 13:02:33 +0000 2017
+@codebrainr no plans to have Node.js Interactive in Europe this year, but there's a lot of great European based Node.js conferences.
+
+Tweet 15:
+Wed Mar 22 23:00:01 +0000 2017
+Early bird tickets available for #NodeInteractive. Get the deals while they are 🔥 https://t.co/ji13h8ZXhn
+
+Tweet 16:
+Wed Mar 22 22:59:09 +0000 2017
+RT @awscloud: AWS Lambda now supports Node.js v6.10! #cloudcomputing https://t.co/YvXhfOMP7f https://t.co/I2d7e2SrHT
+
+Tweet 17:
+Wed Mar 22 19:00:04 +0000 2017
+10 best practices for writing Node.js REST APIs from @RisingStack https://t.co/4wOYdxhLxw
+
+Tweet 18:
+Wed Mar 22 13:50:00 +0000 2017
+Never participated in a conference talk before? Why not now? Submit your talk to #NodeInteractive https://t.co/r6itaBsiXu
+
+Tweet 19:
+Wed Mar 22 13:20:22 +0000 2017
+RT @RisingStack: The first speech from our @nodejs conference by @dkhan is now available (video + article format)! 🤓 Check it out!
+
+https:/…
+
+Tweet 20:
+Wed Mar 22 13:19:53 +0000 2017
+Node.js version 7.7.4 is available: https://t.co/p7I9FxCurJ small release with several bug fixes.
+
+Command: node liri.js spotify-this-songsmooth criminal
+
+--------------------------------------------------------------------------------
+Liri: Here is the spotify search results for smooth criminal:
+--------------------------------------------------------------------------------
+
+Result 1:
+Song title: Smooth Criminal
+Artist: Alien Ant Farm
+Album title: Anthology
+Preview URL: https://p.scdn.co/mp3-preview/20bf81e161c6e50348573583e51b81dcaeaa0e0a?cid=null
+
+Result 2:
+Song title: Smooth Criminal - 2012 Remaster
+Artist: Michael Jackson
+Album title: Bad 25th Anniversary
+Preview URL: https://p.scdn.co/mp3-preview/8dcbe2702477ac98c7c711cbafcac43e10063949?cid=null
+
+Result 3:
+Song title: Smooth Criminal (Glee Cast Version) [feat. 2CELLOS (Sulic & Hauser)]
+Artist: Glee Cast
+Album title: Smooth Criminal (Glee Cast Version) [feat. 2CELLOS (Sulic & Hauser)]
+Preview URL: https://p.scdn.co/mp3-preview/3e429399c01cc9516555bd5fad5f34675d6f1426?cid=null
+
+Result 4:
+Song title: Smooth Criminal - 2012 Remaster
+Artist: Michael Jackson
+Album title: Bad (Remastered)
+Preview URL: https://p.scdn.co/mp3-preview/8dcbe2702477ac98c7c711cbafcac43e10063949?cid=null
+
+Result 5:
+Song title: Smooth Criminal
+Artist: Alien Ant Farm
+Album title: Smooth Criminal
+Preview URL: https://p.scdn.co/mp3-preview/4646fff3d25250d783a85e75ce83ace5dff9eef1?cid=null
+
+Result 6:
+Song title: Smooth Criminal
+Artist: 2Cellos
+Album title: 2CELLOS
+Preview URL: https://p.scdn.co/mp3-preview/ec34674c8a0a5960131dbea601d12162b155350c?cid=null
+
+Result 7:
+Song title: Smooth Criminal - Radio Edit
+Artist: Michael Jackson
+Album title: The Essential Michael Jackson
+Preview URL: https://p.scdn.co/mp3-preview/d9655e088afce603d1a25a2a47347d31a95922c2?cid=null
+
+Result 8:
+Song title: Smooth Criminal
+Artist: 2Cellos
+Album title: 2CELLOS
+Preview URL: https://p.scdn.co/mp3-preview/ec34674c8a0a5960131dbea601d12162b155350c?cid=null
+
+Result 9:
+Song title: Smooth Criminal - Remastered Radio Edit
+Artist: Michael Jackson
+Album title: Michael Jackson's This Is It
+Preview URL: https://p.scdn.co/mp3-preview/8629347e4e18a639c286252b3ee586b1363cb8ac?cid=null
+
+Result 10:
+Song title: Smooth Criminal
+Artist: Alien Ant Farm
+Album title: The Best Of Alien Ant Farm 20th Century Masters The Millennium Collection
+Preview URL: https://p.scdn.co/mp3-preview/bd3ec07abed0a1b04d48f23a477cab54ee57c806?cid=null
+
+Result 11:
+Song title: Smooth Criminal - Radio Edit
+Artist: Michael Jackson
+Album title: Number Ones
+Preview URL: https://p.scdn.co/mp3-preview/7522d903e382658c8eb1bf58b6ff4f1430b3dca4?cid=null
+
+Result 12:
+Song title: Smooth Criminal - Immortal Version
+Artist: Michael Jackson
+Album title: Immortal
+Preview URL: https://p.scdn.co/mp3-preview/6fb1644f290ef7935737b4e754467d078640e1d9?cid=null
+
+Result 13:
+Song title: Smooth Criminal
+Artist: Rockabye Baby!
+Album title: Lullaby Renditions of Michael Jackson
+Preview URL: https://p.scdn.co/mp3-preview/ba4b67fd7faff7dc0b66146d56453bd2aee65f70?cid=null
+
+Result 14:
+Song title: Smooth Criminal
+Artist: Dallas String Quartet
+Album title: Red
+Preview URL: https://p.scdn.co/mp3-preview/d530cf1bc594b44c5ff73016cbee7ee1cd2f438a?cid=null
+
+Result 15:
+Song title: Smooth Criminal
+Artist: Alien Ant Farm
+Album title: 20 #1’s: Alternative Rock
+Preview URL: https://p.scdn.co/mp3-preview/ab27a145b3518d104785a5a074bc9bfa729f7931?cid=null
+
+Result 16:
+Song title: Smooth Criminal
+Artist: 2Cellos
+Album title: Smooth Criminal
+Preview URL: https://p.scdn.co/mp3-preview/677b4315ba15a55bac90334cc21609dc0baaf6e7?cid=null
+
+Result 17:
+Song title: Smooth Criminal
+Artist: David Garrett
+Album title: Encore
+Preview URL: https://p.scdn.co/mp3-preview/eb2fe13cb5cb2404a6f12be462ee28315133e2f8?cid=null
+
+Result 18:
+Song title: Smooth Criminal
+Artist: Vitamin String Quartet
+Album title: VSQ Performs the Hits of Michael Jackson
+Preview URL: https://p.scdn.co/mp3-preview/f02048c63025cb1d5fedd96fb8134da8e6df956d?cid=null
+
+Result 19:
+Song title: Smooth Criminal
+Artist: Alien Ant Farm
+Album title: 20 #1’s: 00s
+Preview URL: https://p.scdn.co/mp3-preview/ef152e83090940b54fdb4d09f89892dedf96a83f?cid=null
+
+Result 20:
+Song title: Smooth Criminal
+Artist 1: Tony Succar
+Artist 2: Jean Rodriguez
+Album title: Smooth Criminal
+Preview URL: https://p.scdn.co/mp3-preview/091c659cd74e3c243da50c662dd9d03ddf26c8a3?cid=null
+
+Command: node liri.js movie-thisturner and hootch
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result for turner and hootch:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-thisperfect storm
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result for perfect storm:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-thisperfect storm
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result for perfect storm:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Man of Steel
+Year: 2013
+IMDB Rating: PG-13
+Country: USA, Canada, UK
+Language: English
+Plot: Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.
+Actors: Henry Cavill, Amy Adams, Michael Shannon, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://manofsteel.warnerbros.com
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Man of Steel
+Year: 2013
+IMDB Rating: PG-13
+Country: USA, Canada, UK
+Language: English
+Plot: Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.
+Actors: Henry Cavill, Amy Adams, Michael Shannon, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://manofsteel.warnerbros.com
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Man of Steel
+Year: 2013
+IMDB Rating: PG-13
+Country: USA, Canada, UK
+Language: English
+Plot: Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.
+Actors: Henry Cavill, Amy Adams, Michael Shannon, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://manofsteel.warnerbros.com
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Man of Steel
+Year: 2013
+IMDB Rating: PG-13
+Country: USA, Canada, UK
+Language: English
+Plot: Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.
+Actors: Henry Cavill, Amy Adams, Michael Shannon, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://manofsteel.warnerbros.com
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Man of Steel
+Year: 2013
+IMDB Rating: PG-13
+Country: USA, Canada, UK
+Language: English
+Plot: Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.
+Actors: Henry Cavill, Amy Adams, Michael Shannon, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://manofsteel.warnerbros.com
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: Here is a random movie picked from OMDB:
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one:
+--------------------------------------------------------------------------------
+
+Title: Scream
+Year: 1996
+IMDB Rating: R
+Country: USA
+Language: English
+Plot: A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.
+Actors: Drew Barrymore, Roger Jackson, Kevin Patrick Walls, David Booth
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one:
+--------------------------------------------------------------------------------
+
+Title: Man of Steel
+Year: 2013
+IMDB Rating: PG-13
+Country: USA, Canada, UK
+Language: English
+Plot: Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.
+Actors: Henry Cavill, Amy Adams, Michael Shannon, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://manofsteel.warnerbros.com
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one:
+--------------------------------------------------------------------------------
+
+Title: Man of Steel
+Year: 2013
+IMDB Rating: PG-13
+Country: USA, Canada, UK
+Language: English
+Plot: Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.
+Actors: Henry Cavill, Amy Adams, Michael Shannon, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://manofsteel.warnerbros.com
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one:
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one:
+--------------------------------------------------------------------------------
+
+Title: Scream
+Year: 1996
+IMDB Rating: R
+Country: USA
+Language: English
+Plot: A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.
+Actors: Drew Barrymore, Roger Jackson, Kevin Patrick Walls, David Booth
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one:
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one:Perfect Storm,Scream,Mr. Nobody,Man of Steel
+--------------------------------------------------------------------------------
+
+Title: Scream
+Year: 1996
+IMDB Rating: R
+Country: USA
+Language: English
+Plot: A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.
+Actors: Drew Barrymore, Roger Jackson, Kevin Patrick Walls, David Booth
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one:Man of Steel
+--------------------------------------------------------------------------------
+
+Title: Man of Steel
+Year: 2013
+IMDB Rating: PG-13
+Country: USA, Canada, UK
+Language: English
+Plot: Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.
+Actors: Henry Cavill, Amy Adams, Michael Shannon, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://manofsteel.warnerbros.com
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one: Mr. Nobody
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-thisscream
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result for scream:
+--------------------------------------------------------------------------------
+
+Title: Scream
+Year: 1996
+IMDB Rating: R
+Country: USA
+Language: English
+Plot: A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.
+Actors: Drew Barrymore, Roger Jackson, Kevin Patrick Walls, David Booth
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-thisscream
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result for "SCREAM": 
+--------------------------------------------------------------------------------
+
+Title: Scream
+Year: 1996
+IMDB Rating: R
+Country: USA
+Language: English
+Plot: A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.
+Actors: Drew Barrymore, Roger Jackson, Kevin Patrick Walls, David Booth
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one: SCREAM
+--------------------------------------------------------------------------------
+
+Title: Scream
+Year: 1996
+IMDB Rating: R
+Country: USA
+Language: English
+Plot: A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.
+Actors: Drew Barrymore, Roger Jackson, Kevin Patrick Walls, David Booth
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one: SCREAM
+--------------------------------------------------------------------------------
+
+Title: Scream
+Year: 1996
+IMDB Rating: R
+Country: USA
+Language: English
+Plot: A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.
+Actors: Drew Barrymore, Roger Jackson, Kevin Patrick Walls, David Booth
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one: MR. NOBODY
+--------------------------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: R
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Website: http://www.magpictures.com/mrnobody/
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one: MAN OF STEEL
+--------------------------------------------------------------------------------
+
+Title: Man of Steel
+Year: 2013
+IMDB Rating: PG-13
+Country: USA, Canada, UK
+Language: English
+Plot: Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.
+Actors: Henry Cavill, Amy Adams, Michael Shannon, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://manofsteel.warnerbros.com
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one: PERFECT STORM
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js do-what-it-says
+
+--------------------------------------------------------------------------------
+Liri: Here is the spotify search results:
+--------------------------------------------------------------------------------
+
+Result 1:
+Song title: I Want It That Way
+Artist: Backstreet Boys
+Album title: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+
+Result 2:
+Song title: I Want It That Way
+Artist: Backstreet Boys
+Album title: Millennium
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=null
+
+Result 3:
+Song title: I Want It That Way
+Artist: Backstreet Boys
+Album title: 90 Sweet 90s Hits!
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=null
+
+Result 4:
+Song title: I Want It That Way
+Artist: Backstreet Boys
+Album title: The Essential Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=null
+
+Result 5:
+Song title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist: Glee Cast
+Album title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=null
+
+Result 6:
+Song title: I Want It That Way
+Artist 1: Brittany Howard
+Artist 2: Jim James
+Album title: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=null
+
+Result 7:
+Song title: I Want It That Way
+Artist: Anthem Lights
+Album title: Covers Part IV
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=null
+
+Result 8:
+Song title: I Want It That Way
+Artist 1: Kyle Olthoff
+Artist 2: Destiny Jenkins
+Album title: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=null
+
+Result 9:
+Song title: I Want It That Way
+Artist: Dynamite Boy
+Album title: Punk Goes Pop
+Preview URL: https://p.scdn.co/mp3-preview/9d2f9eac900740ab86cd2bbb67872bf3440787db?cid=null
+
+Result 10:
+Song title: I Want It That Way
+Artist: Boyce Avenue
+Album title: New Acoustic Sessions, Vol. 3
+Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=null
+
+Result 11:
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Artist: "Weird Al" Yankovic
+Album title: The Essential Weird Al Yankovic
+Preview URL: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=null
+
+Result 12:
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Artist: "Weird Al" Yankovic
+Album title: Poodle Hat
+Preview URL: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=null
+
+Result 13:
+Song title: I Want It That Way
+Artist: Steel Panther
+Album title: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/b71df9d016478a90c09a96ce96c91a65c883f33f?cid=null
+
+Result 14:
+Song title: I Want It That Way
+Artist: Landon Austin & Julia Sheer
+Album title: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=null
+
+Result 15:
+Song title: I Want It That Way
+Artist: Backstreet Boys
+Album title: NKOTBSB
+Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=null
+
+Result 16:
+Song title: I Want It That Way
+Artist: Backstreet Boys
+Album title: NOW That's What I Call 90s Pop
+Preview URL: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=null
+
+Result 17:
+Song title: I Want It That Way
+Artist 1: Scott Bradlee's Postmodern Jukebox
+Artist 2: Shoshana Bean
+Album title: Selfies on Kodachrome
+Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null
+
+Result 18:
+Song title: I Want It That Way
+Artist 1: Scott Bradlee's Postmodern Jukebox
+Artist 2: Shoshana Bean
+Album title: PMJ Is For Lovers: The Love Song Collection
+Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null
+
+Result 19:
+Song title: I Want It That Way - Instrumental Version
+Artist: In The Name Of Love
+Album title: I Want It That Way (Instrumental Version)
+Preview URL: https://p.scdn.co/mp3-preview/46a2c637536f1cbe5543de63f2c803c250b3d844?cid=null
+
+Result 20:
+Song title: I Want It That Way
+Artist: FROIDZ
+Album title: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67?cid=null
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one: SCREAM
+--------------------------------------------------------------------------------
+
+Title: Scream
+Year: 1996
+IMDB Rating: R
+Country: USA
+Language: English
+Plot: A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.
+Actors: Drew Barrymore, Roger Jackson, Kevin Patrick Walls, David Booth
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js do-what-it-says
+
+--------------------------------------------------------------------------------
+Liri: Here is the spotify search results:
+--------------------------------------------------------------------------------
+
+Result 1:
+Song title: I Want It That Way
+Artist: Backstreet Boys
+Album title: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+
+Result 2:
+Song title: I Want It That Way
+Artist: Backstreet Boys
+Album title: Millennium
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=null
+
+Result 3:
+Song title: I Want It That Way
+Artist: Backstreet Boys
+Album title: 90 Sweet 90s Hits!
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=null
+
+Result 4:
+Song title: I Want It That Way
+Artist: Backstreet Boys
+Album title: The Essential Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=null
+
+Result 5:
+Song title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist: Glee Cast
+Album title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=null
+
+Result 6:
+Song title: I Want It That Way
+Artist 1: Brittany Howard
+Artist 2: Jim James
+Album title: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=null
+
+Result 7:
+Song title: I Want It That Way
+Artist: Anthem Lights
+Album title: Covers Part IV
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=null
+
+Result 8:
+Song title: I Want It That Way
+Artist 1: Kyle Olthoff
+Artist 2: Destiny Jenkins
+Album title: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=null
+
+Result 9:
+Song title: I Want It That Way
+Artist: Dynamite Boy
+Album title: Punk Goes Pop
+Preview URL: https://p.scdn.co/mp3-preview/9d2f9eac900740ab86cd2bbb67872bf3440787db?cid=null
+
+Result 10:
+Song title: I Want It That Way
+Artist: Boyce Avenue
+Album title: New Acoustic Sessions, Vol. 3
+Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=null
+
+Result 11:
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Artist: "Weird Al" Yankovic
+Album title: The Essential Weird Al Yankovic
+Preview URL: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=null
+
+Result 12:
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Artist: "Weird Al" Yankovic
+Album title: Poodle Hat
+Preview URL: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=null
+
+Result 13:
+Song title: I Want It That Way
+Artist: Steel Panther
+Album title: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/b71df9d016478a90c09a96ce96c91a65c883f33f?cid=null
+
+Result 14:
+Song title: I Want It That Way
+Artist: Landon Austin & Julia Sheer
+Album title: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=null
+
+Result 15:
+Song title: I Want It That Way
+Artist: Backstreet Boys
+Album title: NKOTBSB
+Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=null
+
+Result 16:
+Song title: I Want It That Way
+Artist: Backstreet Boys
+Album title: NOW That's What I Call 90s Pop
+Preview URL: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=null
+
+Result 17:
+Song title: I Want It That Way
+Artist 1: Scott Bradlee's Postmodern Jukebox
+Artist 2: Shoshana Bean
+Album title: Selfies on Kodachrome
+Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null
+
+Result 18:
+Song title: I Want It That Way
+Artist 1: Scott Bradlee's Postmodern Jukebox
+Artist 2: Shoshana Bean
+Album title: PMJ Is For Lovers: The Love Song Collection
+Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null
+
+Result 19:
+Song title: I Want It That Way - Instrumental Version
+Artist: In The Name Of Love
+Album title: I Want It That Way (Instrumental Version)
+Preview URL: https://p.scdn.co/mp3-preview/46a2c637536f1cbe5543de63f2c803c250b3d844?cid=null
+
+Result 20:
+Song title: I Want It That Way
+Artist: FROIDZ
+Album title: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67?cid=null
