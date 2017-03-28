@@ -2231,3 +2231,187 @@ Song title: I Want It That Way
 Artist: FROIDZ
 Album title: I Want It That Way
 Preview URL: https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67?cid=null
+
+Command: node liri.js my-tweets
+
+--------------------------------------------------------------------------------
+Liri: Here are your most recent tweets:
+--------------------------------------------------------------------------------
+
+Tweet 1:
+Tue Mar 28 21:00:08 +0000 2017
+✨Working with Node.js for machine learning, desktop/electron or IoT? Submit a talk for #NodeInteractive… https://t.co/1vwe24FPpV
+
+Tweet 2:
+Tue Mar 28 20:31:28 +0000 2017
+RT @williamkapke: .@Nodejs Build WG now LIVE!
+https://t.co/evTRQVLufr
+
+Tweet 3:
+Tue Mar 28 20:00:05 +0000 2017
+📻 What's the history of Node.js and the Node.js Foundation? @mikeal talks with @changelog all about it:… https://t.co/lB4LwGFIb1
+
+Tweet 4:
+Tue Mar 28 18:56:53 +0000 2017
+RT @MylesBorins: We have found a memory leak in the latest v4 and v6 @nodejs LTS releases
+
+Follow this github issue for action plan
+
+https:…
+
+Tweet 5:
+Tue Mar 28 18:19:00 +0000 2017
+🎨Interesting talk from @whichlight who used Node.js to create several interactive in-broswer artistic experiences https://t.co/ME2h8F0RSO
+
+Tweet 6:
+Tue Mar 28 16:40:01 +0000 2017
+🐱CFPs close for #NodeInteractive soon. Submit your talk meow: https://t.co/r6itaBsiXu
+
+Tweet 7:
+Tue Mar 28 14:58:34 +0000 2017
+@ThomasG77 that's are plan as of now.
+
+Tweet 8:
+Tue Mar 28 12:57:05 +0000 2017
+@ThomasG77 you can find more information on the certification program on GitHub here: https://t.co/9xJeDULNgr
+
+Tweet 9:
+Mon Mar 27 22:36:37 +0000 2017
+RT @rachelnabors: Garbage collection in V8, an illustrated guide https://t.co/vxr2dK96uZ https://t.co/jjS9AMf20V
+
+Tweet 10:
+Mon Mar 27 22:02:59 +0000 2017
+The Node.js Foundation board meeting is happening now. Tune in here: https://t.co/6HyKNX2e7J
+
+Tweet 11:
+Mon Mar 27 22:02:57 +0000 2017
+RT @ag_dubs: annnnddd the @nodejs Foundation Board meeting is live! https://t.co/MjOcLZeQz5
+
+Tweet 12:
+Mon Mar 27 21:27:06 +0000 2017
+RT @srl295: .@nodejs Intl meeting now on! https://t.co/rxjdodu4CQ (google hangout link)
+
+Tweet 13:
+Mon Mar 27 21:26:36 +0000 2017
+Node.js Foundation board meeting will start in about 30 minutes (at 3pm PT today). Link will be shared via Twitter once we are live.
+
+Tweet 14:
+Mon Mar 27 20:50:00 +0000 2017
+Never participated in a conference talk before? Why not now? Submit your talk to #NodeInteractive https://t.co/r6itaBsiXu
+
+Tweet 15:
+Mon Mar 27 19:17:38 +0000 2017
+Reminder: The Node.js Foundation board meeting will start at 3pm PT today. We'll share the link once it's live, so you can tune in 😀
+
+Tweet 16:
+Mon Mar 27 12:00:01 +0000 2017
+📆#NodeWeek is coming next month! Speakers will delve into real-life experiences &amp; lessons learned along the way https://t.co/Fypit4J9sa
+
+Tweet 17:
+Fri Mar 24 19:27:48 +0000 2017
+RT @williamkapke: Have questions/concerns/ideas about the @Nodejs Foundation? Open an issue https://t.co/iPLgfA6M0d or feel free to DM me!…
+
+Tweet 18:
+Fri Mar 24 19:00:02 +0000 2017
+🌎📱A transcript of our chat with Groupon on how they used Node.js to expand globally and into mobile: https://t.co/IkurJc94OP
+
+Tweet 19:
+Fri Mar 24 17:10:02 +0000 2017
+Need a podcast today? The JS Party crew discusses AMP, Path.js and JavaScript Fatigue in this @thechangelog episode… https://t.co/zLK4qeOQIQ
+
+Tweet 20:
+Fri Mar 24 16:31:01 +0000 2017
+Welcome!!! 🎉🎉🎉 https://t.co/LsDb7CNjf7
+
+Command: node liri.js my-tweets
+
+Command: node liri.js my-tweets
+
+--------------------------------------------------------------------------------
+Liri: Here are your most recent tweets:
+--------------------------------------------------------------------------------
+
+Tweet 1:
+Tue Mar 28 21:00:08 +0000 2017
+✨Working with Node.js for machine learning, desktop/electron or IoT? Submit a talk for #NodeInteractive… https://t.co/1vwe24FPpV
+
+Tweet 2:
+Tue Mar 28 20:31:28 +0000 2017
+RT @williamkapke: .@Nodejs Build WG now LIVE!
+https://t.co/evTRQVLufr
+
+Tweet 3:
+Tue Mar 28 20:00:05 +0000 2017
+📻 What's the history of Node.js and the Node.js Foundation? @mikeal talks with @changelog all about it:… https://t.co/lB4LwGFIb1
+
+Tweet 4:
+Tue Mar 28 18:56:53 +0000 2017
+RT @MylesBorins: We have found a memory leak in the latest v4 and v6 @nodejs LTS releases
+
+Follow this github issue for action plan
+
+https:…
+
+Tweet 5:
+Tue Mar 28 18:19:00 +0000 2017
+🎨Interesting talk from @whichlight who used Node.js to create several interactive in-broswer artistic experiences https://t.co/ME2h8F0RSO
+
+Tweet 6:
+Tue Mar 28 16:40:01 +0000 2017
+🐱CFPs close for #NodeInteractive soon. Submit your talk meow: https://t.co/r6itaBsiXu
+
+Tweet 7:
+Tue Mar 28 14:58:34 +0000 2017
+@ThomasG77 that's are plan as of now.
+
+Tweet 8:
+Tue Mar 28 12:57:05 +0000 2017
+@ThomasG77 you can find more information on the certification program on GitHub here: https://t.co/9xJeDULNgr
+
+Tweet 9:
+Mon Mar 27 22:36:37 +0000 2017
+RT @rachelnabors: Garbage collection in V8, an illustrated guide https://t.co/vxr2dK96uZ https://t.co/jjS9AMf20V
+
+Tweet 10:
+Mon Mar 27 22:02:59 +0000 2017
+The Node.js Foundation board meeting is happening now. Tune in here: https://t.co/6HyKNX2e7J
+
+Tweet 11:
+Mon Mar 27 22:02:57 +0000 2017
+RT @ag_dubs: annnnddd the @nodejs Foundation Board meeting is live! https://t.co/MjOcLZeQz5
+
+Tweet 12:
+Mon Mar 27 21:27:06 +0000 2017
+RT @srl295: .@nodejs Intl meeting now on! https://t.co/rxjdodu4CQ (google hangout link)
+
+Tweet 13:
+Mon Mar 27 21:26:36 +0000 2017
+Node.js Foundation board meeting will start in about 30 minutes (at 3pm PT today). Link will be shared via Twitter once we are live.
+
+Tweet 14:
+Mon Mar 27 20:50:00 +0000 2017
+Never participated in a conference talk before? Why not now? Submit your talk to #NodeInteractive https://t.co/r6itaBsiXu
+
+Tweet 15:
+Mon Mar 27 19:17:38 +0000 2017
+Reminder: The Node.js Foundation board meeting will start at 3pm PT today. We'll share the link once it's live, so you can tune in 😀
+
+Tweet 16:
+Mon Mar 27 12:00:01 +0000 2017
+📆#NodeWeek is coming next month! Speakers will delve into real-life experiences &amp; lessons learned along the way https://t.co/Fypit4J9sa
+
+Tweet 17:
+Fri Mar 24 19:27:48 +0000 2017
+RT @williamkapke: Have questions/concerns/ideas about the @Nodejs Foundation? Open an issue https://t.co/iPLgfA6M0d or feel free to DM me!…
+
+Tweet 18:
+Fri Mar 24 19:00:02 +0000 2017
+🌎📱A transcript of our chat with Groupon on how they used Node.js to expand globally and into mobile: https://t.co/IkurJc94OP
+
+Tweet 19:
+Fri Mar 24 17:10:02 +0000 2017
+Need a podcast today? The JS Party crew discusses AMP, Path.js and JavaScript Fatigue in this @thechangelog episode… https://t.co/zLK4qeOQIQ
+
+Tweet 20:
+Fri Mar 24 16:31:01 +0000 2017
+Welcome!!! 🎉🎉🎉 https://t.co/LsDb7CNjf7
