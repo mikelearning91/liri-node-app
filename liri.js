@@ -5,11 +5,12 @@ var twitter = require('twitter');
 var spotify = require('spotify');
 var request = require('request');
 var clientTwitter = new twitter(keys.twitterKeys);
+var inq = require('inquirer');
 
 // Color coding for prompt text
 var chalk = require('chalk');
 
-// Get input argument
+// Get input arguments
 var selection = process.argv[2];
 var type = process.argv.splice(3, process.argv.length - 1).join(' ');
 
@@ -27,6 +28,9 @@ function switchCases(passSelection, passQuery) {
     }
     // Switch case to handle input
     switch (selection) {
+        case 'liri':
+            getTweets(passQuery);
+            break;
         case 'my-tweets':
             getTweets(passQuery);
             break;
@@ -45,7 +49,7 @@ function switchCases(passSelection, passQuery) {
         default:
             logData('');
             logData('--------------------------------------------------------------------------------', 'yellow');
-            logData('Liri: I did not understand your last input. Type "node liri.js -h" for help.', 'yellow');
+            logData(' Liri: I am "limited", so to speak. Hence, I did not understand your last input. \n Type "node liri.js -h" for help.', 'yellow');
             logData('--------------------------------------------------------------------------------', 'yellow');
     }
 }
@@ -186,3 +190,4 @@ function help() {
     logData('                                        language, plot and actors');
     logData('  do-what-it-says                       reads random.txt with arguments separated by a comma');
 }
+

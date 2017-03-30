@@ -2415,3 +2415,99 @@ Need a podcast today? The JS Party crew discusses AMP, Path.js and JavaScript Fa
 Tweet 20:
 Fri Mar 24 16:31:01 +0000 2017
 Welcome!!! 🎉🎉🎉 https://t.co/LsDb7CNjf7
+
+Command: node liri.js my-tweet
+
+--------------------------------------------------------------------------------
+Liri: I am "limited", so to speak. Hence, I did not understand your last input. Type "node liri.js -h" for help.
+--------------------------------------------------------------------------------
+
+Command: node liri.js my-tweet
+
+--------------------------------------------------------------------------------
+Liri: I am "limited", so to speak. Hence, I did not understand your last input. 
+ Type "node liri.js -h" for help.
+--------------------------------------------------------------------------------
+
+Command: node liri.js my-tweet
+
+--------------------------------------------------------------------------------
+Liri: I am "limited", so to speak. Hence, I did not understand your last input. 
+Type "node liri.js -h" for help.
+--------------------------------------------------------------------------------
+
+Command: node liri.js my-tweet
+
+--------------------------------------------------------------------------------
+ Liri: I am "limited", so to speak. Hence, I did not understand your last input. 
+ Type "node liri.js -h" for help.
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie undefined so I found you one: PERFECT STORM
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js undefined
+
+--------------------------------------------------------------------------------
+ Liri: I am "limited", so to speak. Hence, I did not understand your last input. 
+ Type "node liri.js -h" for help.
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie undefined so I found you one: PERFECT STORM
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js undefined
+
+--------------------------------------------------------------------------------
+ Liri: I am "limited", so to speak. Hence, I did not understand your last input. 
+ Type "node liri.js -h" for help.
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie undefined so I found you one: PERFECT STORM
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js undefined
+
+--------------------------------------------------------------------------------
+ Liri: I am "limited", so to speak. Hence, I did not understand your last input. 
+ Type "node liri.js -h" for help.
+--------------------------------------------------------------------------------
