@@ -5,12 +5,11 @@ var twitter = require('twitter');
 var spotify = require('spotify');
 var request = require('request');
 var clientTwitter = new twitter(keys.twitterKeys);
-var inq = require('inquirer');
 
 // Color coding for prompt text
 var chalk = require('chalk');
 
-// Get input arguments
+// Get input argument
 var selection = process.argv[2];
 var type = process.argv.splice(3, process.argv.length - 1).join(' ');
 
@@ -28,9 +27,6 @@ function switchCases(passSelection, passQuery) {
     }
     // Switch case to handle input
     switch (selection) {
-        case 'liri':
-            getTweets(passQuery);
-            break;
         case 'my-tweets':
             getTweets(passQuery);
             break;
@@ -49,7 +45,7 @@ function switchCases(passSelection, passQuery) {
         default:
             logData('');
             logData('--------------------------------------------------------------------------------', 'yellow');
-            logData(' Liri: I am "limited", so to speak. Hence, I did not understand your last input. \n Type "node liri.js -h" for help.', 'yellow');
+            logData(' Liri: I am "limited", so to speak. Hence, I did not understand your last input. \r\n Type "node liri.js -h" for help.', 'yellow');
             logData('--------------------------------------------------------------------------------', 'yellow');
     }
 }
@@ -118,8 +114,8 @@ function searchSpotify(passQuery) {
 
 // Request and search OMDB function
 function searchOMDB() {
-	// if user does not input a movie, this is a list of random movies liri will pick from to show
-	var randomMovies = ["Perfect Storm", "Scream", "Mr. Nobody", "Man of Steel"];
+    // if user does not input a movie, this is a list of random movies liri will pick from to show
+    var randomMovies = ["Perfect Storm", "Scream", "Mr. Nobody", "Man of Steel"];
     var randomMovie = randomMovies[Math.floor(Math.random() * randomMovies.length)];
     var title;
     if (type === '') {
@@ -130,25 +126,42 @@ function searchOMDB() {
     var queryURL = 'http://www.omdbapi.com/?t=' + title + '&y=&plot=short&tomatoes=true&r=json';
     request(queryURL, function(error, response, body) {
         if (!error && response.statusCode == 200) {
+            var data = JSON.parse(body, 2, null);
             logData('');
             logData('--------------------------------------------------------------------------------', 'green');
             if (type === '') {
                 logData("Liri: You didn't type a movie so I found you one: " + title.toUpperCase(), "green");
+                logData('--------------------------------------------------------------------------------', 'green');
+                logData('');
+                logData('Title: ' + data.Title, 'magenta');
+                logData('Year: ' + data.Year);
+                logData('IMDB Rating: ' + data.Rated);
+                logData('Country: ' + data.Country);
+                logData('Language: ' + data.Language);
+                logData('Plot: ' + data.Plot);
+                logData('Actors: ' + data.Actors);
+                logData('Rotten Tomatoes Rating: ' + data.tomatoRating);
+                logData('Website: ' + data.Website);
+            }
+            if (data.Title === undefined) {
+                logData("Liri: Sorry, this movie doesn't exist in my database. Please try a different movie.", 'green')
+                logData('--------------------------------------------------------------------------------', 'green');
+
             } else {
                 logData('Liri: Here is the OMDB search result for "' + title.toUpperCase() + '": ', 'green');
+                logData('--------------------------------------------------------------------------------', 'green');
+                logData('');
+                logData('Title: ' + data.Title, 'magenta');
+                logData('Year: ' + data.Year);
+                logData('IMDB Rating: ' + data.Rated);
+                logData('Country: ' + data.Country);
+                logData('Language: ' + data.Language);
+                logData('Plot: ' + data.Plot);
+                logData('Actors: ' + data.Actors);
+                logData('Rotten Tomatoes Rating: ' + data.tomatoRating);
+                logData('Website: ' + data.Website);
             }
-            logData('--------------------------------------------------------------------------------', 'green');
-            var data = JSON.parse(body, 2, null);
-            logData('');
-            logData('Title: ' + data.Title, 'magenta');
-            logData('Year: ' + data.Year);
-            logData('IMDB Rating: ' + data.Rated);
-            logData('Country: ' + data.Country);
-            logData('Language: ' + data.Language);
-            logData('Plot: ' + data.Plot);
-            logData('Actors: ' + data.Actors);
-            logData('Rotten Tomatoes Rating: ' + data.tomatoRating);
-            logData('Website: ' + data.Website);
+
         }
     });
 }
@@ -190,4 +203,3 @@ function help() {
     logData('                                        language, plot and actors');
     logData('  do-what-it-says                       reads random.txt with arguments separated by a comma');
 }
-

@@ -2511,3 +2511,371 @@ Command: node liri.js undefined
  Liri: I am "limited", so to speak. Hence, I did not understand your last input. 
  Type "node liri.js -h" for help.
 --------------------------------------------------------------------------------
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one: MAN OF STEEL
+--------------------------------------------------------------------------------
+
+Title: Man of Steel
+Year: 2013
+IMDB Rating: PG-13
+Country: USA, Canada, UK
+Language: English
+Plot: Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.
+Actors: Henry Cavill, Amy Adams, Michael Shannon, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://manofsteel.warnerbros.com
+
+Command: node liri.js my-tweets
+
+--------------------------------------------------------------------------------
+Liri: Here are your most recent tweets:
+--------------------------------------------------------------------------------
+
+Tweet 1:
+Thu Mar 30 20:00:09 +0000 2017
+Capital One's approach to Node.js: Sprinkle it across your business &amp; see great results. Details in this case study… https://t.co/4j0kohHTPA
+
+Tweet 2:
+Thu Mar 30 18:50:02 +0000 2017
+Never participated in a conference talk before? Why not now? Submit your talk to #NodeInteractive… https://t.co/VW8KulO6HN
+
+Tweet 3:
+Thu Mar 30 14:00:02 +0000 2017
+#NodeWeek takes place in early April. Get tips and advice on Node.js in this free webinar series hosted by @nearForm https://t.co/Z8XwQ6qPEp
+
+Tweet 4:
+Thu Mar 30 12:00:02 +0000 2017
+✨How understanding the origins of interactive fiction will help you build better conversational interfaces 📖 👉https://t.co/iKbwmz4VFG
+
+Tweet 5:
+Wed Mar 29 21:30:01 +0000 2017
+ICYMI: Here's whats new in the Node.js 7.8.0 release, which was expedited for a crypto-related memory leak: https://t.co/mAxYLqTMhL
+
+Tweet 6:
+Wed Mar 29 20:18:10 +0000 2017
+RT @NodeSource: 🔐 Check out what's new in the @nodejs 7.8.0 release, which was expedited for a crypto-related memory leak: https://t.co/Us6…
+
+Tweet 7:
+Wed Mar 29 18:24:00 +0000 2017
+What does const stand for in ES6? @JacopoDaeli explains in this blog post: https://t.co/Og4AZfssrg
+
+Tweet 8:
+Wed Mar 29 16:16:21 +0000 2017
+RT @NodeSource: ⚡️ Watch the @nodejs CTC meeting, live now: 
+https://t.co/cCxVGIXyuv
+
+Tweet 9:
+Wed Mar 29 15:47:00 +0000 2017
+Node.js and APIs: A Match Made in Scaling Heaven: https://t.co/dKrHef2EVE
+
+Tweet 10:
+Wed Mar 29 14:16:00 +0000 2017
+🐱Only 12 more days until the CFPs close for #NodeInteractive. Submit your talk meow: https://t.co/r6itaBsiXu
+
+Tweet 11:
+Wed Mar 29 13:08:35 +0000 2017
+@BhaiTuRehneDe please ask that question here: https://t.co/EUVUUa1VYb
+
+Tweet 12:
+Wed Mar 29 12:15:00 +0000 2017
+😎Some tips on how to reduce stress and achieve development nirvana through adjusting your workflow via @LinuxDotCom https://t.co/0uD82PCqBC
+
+Tweet 13:
+Tue Mar 28 21:00:08 +0000 2017
+✨Working with Node.js for machine learning, desktop/electron or IoT? Submit a talk for #NodeInteractive… https://t.co/1vwe24FPpV
+
+Tweet 14:
+Tue Mar 28 20:31:28 +0000 2017
+RT @williamkapke: .@Nodejs Build WG now LIVE!
+https://t.co/evTRQVLufr
+
+Tweet 15:
+Tue Mar 28 20:00:05 +0000 2017
+📻 What's the history of Node.js and the Node.js Foundation? @mikeal talks with @changelog all about it:… https://t.co/lB4LwGFIb1
+
+Tweet 16:
+Tue Mar 28 18:56:53 +0000 2017
+RT @MylesBorins: We have found a memory leak in the latest v4 and v6 @nodejs LTS releases
+
+Follow this github issue for action plan
+
+https:…
+
+Tweet 17:
+Tue Mar 28 18:19:00 +0000 2017
+🎨Interesting talk from @whichlight who used Node.js to create several interactive in-broswer artistic experiences https://t.co/ME2h8F0RSO
+
+Tweet 18:
+Tue Mar 28 16:40:01 +0000 2017
+🐱CFPs close for #NodeInteractive soon. Submit your talk meow: https://t.co/r6itaBsiXu
+
+Tweet 19:
+Tue Mar 28 14:58:34 +0000 2017
+@ThomasG77 that's are plan as of now.
+
+Tweet 20:
+Tue Mar 28 12:57:05 +0000 2017
+@ThomasG77 you can find more information on the certification program on GitHub here: https://t.co/9xJeDULNgr
+
+Command: node liri.js undefined
+
+--------------------------------------------------------------------------------
+ Liri: I am "limited", so to speak. Hence, I did not understand your last input. 
+ Type "node liri.js -h" for help.
+--------------------------------------------------------------------------------
+
+Command: node liri.js undefined
+
+--------------------------------------------------------------------------------
+ Liri: I am "limited", so to speak. Hence, I did not understand your last input. 
+ Type "node liri.js -h" for help.
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-thisjumper
+
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-thisjumper
+
+--------------------------------------------------------------------------------
+Liri: That movie doesn't exist in my database. Please try again.
+--------------------------------------------------------------------------------
+
+Title: Jumper
+Year: 2008
+IMDB Rating: PG-13
+Country: USA, Canada
+Language: English, Italian, Japanese, Mandarin
+Plot: A teenager with teleportation abilities suddenly finds himself in the middle of an ancient war between those like him and their sworn annihilators.
+Actors: Hayden Christensen, Jamie Bell, Rachel Bilson, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://www.jumperthemovie.com
+
+Command: node liri.js movie-thislittle rascals
+
+--------------------------------------------------------------------------------
+Liri: That movie doesn't exist in my database. Please try again.
+--------------------------------------------------------------------------------
+
+Title: Little Rascals
+Year: 2008
+IMDB Rating: X
+Country: N/A
+Language: N/A
+Plot: N/A
+Actors: Phil Atenor, Jack Bloom, Fred Carter, Matt Jakes
+Rotten Tomatoes Rating: N/A
+Website: N/A
+
+Command: node liri.js movie-thisbridesmaides
+
+--------------------------------------------------------------------------------
+Liri: That movie doesn't exist in my database. Please try again.
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-thisbridesmaides
+
+--------------------------------------------------------------------------------
+Liri: That movie doesn't exist in my database. Please try again.
+
+Command: node liri.js movie-thisbridesmaides
+
+--------------------------------------------------------------------------------
+Liri: That movie doesn't exist in my database. Please try again.
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-thisbridesmaides
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result for "BRIDESMAIDES": 
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-thisbridesmaides
+
+--------------------------------------------------------------------------------
+Liri: Sorry, this movie doesn't exist in my database. Please try a different movie
+
+Command: node liri.js movie-thisbridesmaides
+
+--------------------------------------------------------------------------------
+Liri: Sorry, this movie doesn't exist in my database. Please try a different movie
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-thisjumper
+
+--------------------------------------------------------------------------------
+Liri: Sorry, this movie doesn't exist in my database. Please try a different movie.
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-thislittle rascals
+
+--------------------------------------------------------------------------------
+Liri: Sorry, this movie doesn't exist in my database. Please try a different movie.
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-thislittle rascals
+
+--------------------------------------------------------------------------------
+Liri: Sorry, this movie doesn't exist in my database. Please try a different movie.
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-this
+
+--------------------------------------------------------------------------------
+Liri: You didn't type a movie so I found you one: PERFECT STORM
+--------------------------------------------------------------------------------
+
+Title: The Perfect Storm
+Year: 2000
+IMDB Rating: PG-13
+Country: USA
+Language: English
+Plot: An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.
+Actors: George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: N/A
+Liri: Sorry, this movie doesn't exist in my database. Please try a different movie.
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-thisjumper
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result for "JUMPER": 
+--------------------------------------------------------------------------------
+
+Title: Jumper
+Year: 2008
+IMDB Rating: PG-13
+Country: USA, Canada
+Language: English, Italian, Japanese, Mandarin
+Plot: A teenager with teleportation abilities suddenly finds himself in the middle of an ancient war between those like him and their sworn annihilators.
+Actors: Hayden Christensen, Jamie Bell, Rachel Bilson, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://www.jumperthemovie.com
+
+Command: node liri.js movie-thisbridesmaides
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result for "BRIDESMAIDES": 
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-thisbridesmaides
+
+--------------------------------------------------------------------------------
+Liri: Sorry, this movie doesn't exist in my database. Please try a different movie.
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-thisjumper
+
+--------------------------------------------------------------------------------
+Liri: Sorry, this movie doesn't exist in my database. Please try a different movie.
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-thisjumper
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result for "JUMPER": 
+--------------------------------------------------------------------------------
+
+Title: Jumper
+Year: 2008
+IMDB Rating: PG-13
+Country: USA, Canada
+Language: English, Italian, Japanese, Mandarin
+Plot: A teenager with teleportation abilities suddenly finds himself in the middle of an ancient war between those like him and their sworn annihilators.
+Actors: Hayden Christensen, Jamie Bell, Rachel Bilson, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://www.jumperthemovie.com
+
+Command: node liri.js movie-thisbridesmaides
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result for "BRIDESMAIDES": 
+--------------------------------------------------------------------------------
+
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Website: undefined
+
+Command: node liri.js movie-thisbridesmaides
+
+--------------------------------------------------------------------------------
+Liri: Sorry, this movie doesn't exist in my database. Please try a different movie.
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-thisjumper
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result for "JUMPER": 
+--------------------------------------------------------------------------------
+
+Title: Jumper
+Year: 2008
+IMDB Rating: PG-13
+Country: USA, Canada
+Language: English, Italian, Japanese, Mandarin
+Plot: A teenager with teleportation abilities suddenly finds himself in the middle of an ancient war between those like him and their sworn annihilators.
+Actors: Hayden Christensen, Jamie Bell, Rachel Bilson, Diane Lane
+Rotten Tomatoes Rating: N/A
+Website: http://www.jumperthemovie.com
+
+Command: node liri.js movie-thisbridesmaides
+
+--------------------------------------------------------------------------------
+Liri: Sorry, this movie doesn't exist in my database. Please try a different movie.
+--------------------------------------------------------------------------------
+
+Command: node liri.js movie-thislittle rascals
+
+--------------------------------------------------------------------------------
+Liri: Here is the OMDB search result for "LITTLE RASCALS": 
+--------------------------------------------------------------------------------
+
+Title: Little Rascals
+Year: 2008
+IMDB Rating: X
+Country: N/A
+Language: N/A
+Plot: N/A
+Actors: Phil Atenor, Jack Bloom, Fred Carter, Matt Jakes
+Rotten Tomatoes Rating: N/A
+Website: N/A
